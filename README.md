@@ -1,4 +1,5 @@
-DIAGRAMAS FEITOS NO BOOTCAMP DATA BASE
+Repositorio criado para o Bootcamp de Data Science
 
-Diagramas apresentados foram passadas as informações de como funcionava a empresa e realizado os esquemas.
+-Utilizacao de Python e Pandas
+-Diagramas apresentados foram passadas as informações de como funcionava a empresa e realizado os esquemas.
  
