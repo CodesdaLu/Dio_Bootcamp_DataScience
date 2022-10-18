@@ -14,7 +14,7 @@ setup(
     description="Aprendendo criar pacote de processamento",
     long_description=page_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/CodesdaLu/Dio_Bootcamp_DataScience/blob/main/criacao_pacotes",
+    url="https://github.com/CodesdaLu/Dio_Bootcamp_DataScience/tree/main/criacao_pacotes%20em%20python",
     packages=find_packages(),
     install_requires=requirements,
     python_requires='>=3.8',
