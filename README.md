@@ -8,7 +8,7 @@ Repositorio criado para o Bootcamp de Data Science
 - Análise de dados
 
 
-- Diagramas apresentados foram passadas as informações de como funcionava a empresa e realizado os esquemas.
+- Diagramas apresentados foram passadas as informações de como funcionava a empresa e realizado os esquemas
 
 
 - Criação de Banco de dados do Zero
